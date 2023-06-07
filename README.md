@@ -5,4 +5,4 @@ Built on Netbeans IDE
 
 Instructions to Run:
 Open a New Workspace with Extracted Folder
-Replace File Locations of Each file from Yaseen-Desktop to your Folder Location
+Replace File Locations of Each file (in Build Folder) from Yaseen-Desktop to your Folder Location
