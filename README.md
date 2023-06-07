@@ -1,4 +1,4 @@
-# Yaseen's College Attendance
+# Yaseen's College Attendance Management System
 
 Has Login and User Profile for both Staff and Student with different GUIs
 Built on Netbeans IDE
